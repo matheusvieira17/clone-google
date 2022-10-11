@@ -13,7 +13,8 @@
     --dark-color: #171717;
     --color-hover: #dcdcdc8a;
     --color-profile: #e8e878;
-    --color-special: #4285f4
+    --color-special: #4285f4;
+    --light-color: #F2F2F2;
 }
 
 body {
@@ -28,4 +29,5 @@ ul {
 
 a {
     text-decoration: none;
+    color: var(--dark-color)
 }
