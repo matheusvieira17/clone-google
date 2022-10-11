@@ -10,9 +10,10 @@
 :root {
     font-size: 10px;
 
-    --color-links: #171717;
+    --dark-color: #171717;
     --color-hover: #dcdcdc8a;
     --color-profile: #e8e878;
+    --color-special: #4285f4
 }
 
 body {

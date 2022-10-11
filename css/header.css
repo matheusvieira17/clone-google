@@ -19,7 +19,7 @@ header {
 }
 
 .navigationBar ul li a {
-    color: var(--color-links);
+    color: var(--dark-color);
 }
 
 .navigationBar ul li a:hover {
