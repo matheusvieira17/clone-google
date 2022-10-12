@@ -2,7 +2,7 @@ let input = document.querySelector(".searchInput")
 let searchBtn = document.querySelector(".searchBtn")
 
 const search = () => {
-    if(input.value === "") {
+    if (input.value === "") {
         return
     } else {
         let url = `https://www.google.com/search?q=${input.value}`

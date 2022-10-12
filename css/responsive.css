@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 650px) {
+    .navigationBar ul {
+        font-size: 1rem;
+    }
+
+    .searchBar {
+        width: 95%;
+        height: 3.5rem;
+        padding: 2rem;
+    }
+
+    .img-logo {
+        width: 20rem;
+    }
+
+    .btns-container button:nth-child(1) {
+        width: 10rem;
+    }
+
+    .btns-container button:nth-child(2) {
+        width: 15rem;
+    }
+
+    .language {
+        font-size: 1.2rem;
+        margin-top: 2.5rem;
+    }
+
+    footer {
+        height: 15rem;
+        font-size: 1.2rem;
+    }
+
+    .upper-footer {
+        height: 5rem;
+    }
+
+    .lower-footer {
+        height: 10rem;
+        flex-direction: column;
+    }
+
+    .lower-left-footer {
+        justify-content: flex-start;
+    }
+}
